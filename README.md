@@ -1,2 +1,2 @@
 # Airtime-Token-Generator
-Just brushing up my Python skills
+An airtime token generator to bag free airtime :-)
